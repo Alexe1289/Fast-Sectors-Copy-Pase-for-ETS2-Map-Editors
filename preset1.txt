@@ -1,0 +1,4 @@
+Name petrosani
+Input C:\Users\frunz\Documents\Euro Truck Simulator 2\mod\user_map\map\romania
+Output C:\Users\frunz\Desktop\test
+Sectors sec+0001-0001.aux sec+0001-0001.base sec+0001-0001.data sec+0001-0001.desc sec+0001-0001.layer

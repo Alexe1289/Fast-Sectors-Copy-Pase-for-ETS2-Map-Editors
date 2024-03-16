@@ -1,0 +1,4 @@
+Name 2
+Input C:\Users\frunz\Documents\Euro Truck Simulator 2\mod\user_map\map\romania
+Output C:\Users\frunz\Desktop\test
+Sectors sec+0001-0003.aux sec+0001-0003.base sec+0001-0003.data sec+0001-0003.desc sec+0001-0003.layer
